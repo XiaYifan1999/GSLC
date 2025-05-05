@@ -13,4 +13,4 @@ Xia Y, Ma J. Grid-Guided Sparse Laplacian Consensus for Robust Feature Matching[
 }
 ```
 - If this code is useful for your research, please cite this paper.
-- Please download vlfeat from its homepage [VLFEAT](https://www.vlfeat.org/), then uncompress and rename it as 'vlfeat'.
+- Please download vlfeat from its homepage [VLFEAT](https://www.vlfeat.org/).
